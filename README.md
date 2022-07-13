@@ -11,9 +11,20 @@ A collaborative project for the analysis of archeological ceramic data.
 
 ```
 # Clone the project
-git clone https://github.com/centre-for-humanities-computing/MINERVA_pottery.git
+git clone https://github.com/albaarodrigueznovoa/Atlantica_paper.git
 
 # Install libraries
 pip3 install -r requirements.txt
 
 ```
+
+# Contributors 
+
+The notebooks are developed in colloboration with [the Center for Humanities Computing Aarhus (CHCAA)] (https://chcaa.io/#/)
+
+Ekaterina S. Borisova - developer
+Laura B. Paulsen - junior developer
+Alba Rodríguez - 
+Tom Brughmans -
+Kristoffer L. Nielbo - head of CHCAA
+
