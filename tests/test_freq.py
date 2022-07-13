@@ -24,7 +24,6 @@ def test_year_freq():
     for value in year_freq["Freq_per_year"]:
 
         assert isinstance(value, float)
-
         assert value == 0.006153846153846154
 
 
@@ -56,5 +55,4 @@ def test_sum_freq():
     for value in df_freq_year["Sum_freq_per_year"]:
 
         assert isinstance(value, float)
-
         assert value == 0.006153846153846154
