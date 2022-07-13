@@ -1,9 +1,6 @@
 # Atlantica: Supplementary information
 
-This is the online supplement that includes all data and the notebooks to reproduce all figures in the paper Rodríguez Nóvoa, A.A.<a href="https://orcid.org/0000-0001-8577-212X">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="14" height="14" /> </a>; Brughmans, T.<a href="https://orcid.org/ 0000-0002-1589-7768">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="14" height="14" /> </a>; Fernández Fernández, A.<a href="https://0000-0003-2981-6604">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="14" height="14" /> </a>, *Socio-economic impacts of the exposure to Roman ceramics in the Iron Age communities of the Iberian Peninsula: a quantitative approach* (submitted).
+This is the online supplement that includes all data and the notebooks to reproduce all figures in the paper Rodríguez Nóvoa, A.A.<a href="https://orcid.org/0000-0001-8577-212X"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="14" height="14" /></a>; Brughmans, T.<a href="https://orcid.org/ 0000-0002-1589-7768"> <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="14" height="14" /> </a>; Fernández Fernández, A.<a href="https://0000-0003-2981-6604"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="14" height="14" /></a>, *Socio-economic impacts of the exposure to Roman ceramics in the Iron Age communities of the Iberian Peninsula: a quantitative approach* (submitted).
 
 # Abstract 
 
