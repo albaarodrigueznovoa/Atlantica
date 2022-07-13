@@ -20,11 +20,15 @@ pip3 install -r requirements.txt
 
 # Contributors 
 
-The notebooks are developed in collaboration with [the Center for Humanities Computing Aarhus (CHCAA)](https://chcaa.io/#/)
+The notebooks are developed in collaboration with [the Center for Humanities Computing Aarhus (CHCAA)](https://chcaa.io/#/).
 
 [Ekaterina S. Borisova](https://github.com/esborisova) - developer
+
 Laura B. Paulsen - junior developer
+
 Alba Rodríguez - 
+
 Tom Brughmans -
+
 Kristoffer L. Nielbo - head of CHCAA
 
