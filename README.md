@@ -14,7 +14,12 @@ How did the first ever exposure to Roman imported material culture at inland sit
 
 # Structure of the supplement 
 
-1.
+1. ATLANTICA_data: contains the raw data, the notebook to generate the graphs and the figures. 
+2. _pycache_:
+3. docs: 
+4. src:
+5. tests:
+6. requirements.txt: 
 
 # Contributors 
 
@@ -24,9 +29,9 @@ The notebooks are developed in collaboration with [the Center for Humanities Com
 
 Laura B. Paulsen - junior developer
 
-Alba Rodríguez - 
+Alba Rodríguez - author
 
-Tom Brughmans -
+Tom Brughmans - author
 
 Kristoffer L. Nielbo - head of CHCAA
 
