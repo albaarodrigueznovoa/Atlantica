@@ -34,7 +34,7 @@ def plot_graph(
     palette: List[str],
     linewidth: int = 3,
     linestyle: str = "solid",
-    alpha: int = 1.0
+    alpha: int = 1.0,
 ):
     """
     Plot line graphs with information in different dataframes.
@@ -57,5 +57,5 @@ def plot_graph(
             color=colour,
             linewidth=linewidth,
             linestyle=linestyle,
-            alpha = alpha
+            alpha=alpha,
         )

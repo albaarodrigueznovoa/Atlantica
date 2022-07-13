@@ -155,4 +155,3 @@ def year_object_count_df(
             date_dict[year] = len(set(flat_list))
 
     return create_series(date_dict, name=name, index_name=index_name)
-    
