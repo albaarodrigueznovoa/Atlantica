@@ -16,7 +16,7 @@ How did the first ever exposure to Roman imported material culture at inland sit
 
 1. ATLANTICA_data: the raw (~$ATLANTICA_thesis_v0.3.xlsx) and preprocessed data (ATLANTICA_thesis_v0.3.xlsx), the notebook to generate the graphs and the figures. 
 3. docs: Documentation describing the main calculation steps performed to obtain summed frequency and object count values.
-4. src: Functions used to compute frequncy and count values.
+4. src: Functions used to compute frequency and count values.
 5. tests: Py tests.
 6. requirements.txt: Includes the required pckages and their versions to run the notebook.
 
