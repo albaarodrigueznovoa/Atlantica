@@ -30,7 +30,5 @@ Laura B. Paulsen - junior developer
 
 Alba Rodríguez - author
 
-Tom Brughmans - author
-
-Kristoffer L. Nielbo - head of CHCAA
+[Tom Brughmans](https://pure.au.dk/portal/en/persons/tom-brughmans(78c7314a-9485-4e14-b207-0e836aea5e01).html) - author
 
