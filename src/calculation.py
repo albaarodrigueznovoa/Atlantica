@@ -5,34 +5,6 @@ import pandas as pd
 from plot import create_series
 from typing import Tuple, Dict
 
-
-def freq_per_year(
-    data: pd.DataFrame,
-    lower_date: str,
-    upper_date: str,
-    freq: str,
-    freq_per_year: str = "Freq_per_year",
-) -> pd.DataFrame:
-    """
-    Calculates frequency per year per object.
-
-    Args:
-        data (pd.DataFrame): A pandas dataframe.
-        lower_date (str): The name of the dataframe column containing start dates.
-        upper_date (str): The name of the dataframe column containing end dates.
-        freq (str): A dataframe column with frequency values per object.
-        freq_per_year (str): A dataframe column with resulting frequency values per year per object.
-        The name of the column can be set up (by default = 'Freq_per_year').
-
-    Returns:
-        pd.DataFrame: An input dataframe with a new column containg frequency per year values.
-    """
-
-    for row in range(len(data)):
-        data[freq_per_year] = data[freq] / (data[upper_date] - data[lower_date])
-    return data
-
-
 def sum_freq_per_year(
     data: pd.DataFrame,
     sum_freq: str,
