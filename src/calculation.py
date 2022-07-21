@@ -1,4 +1,4 @@
-"""Functions for counting objects, frequency, intersection and proportion to a given date range"""
+"""Functions for obtaining count and frequency values"""
 
 import pandas as pd
 
