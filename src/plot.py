@@ -1,4 +1,4 @@
-"""Fucntions for creating series and ploting lines graphs"""
+"""Functions for creating series and plotting lines graphs"""
 
 import pandas as pd
 import seaborn as sns
